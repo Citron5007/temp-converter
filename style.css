@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: teal;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#tb{
+    border-radius: 20px;
+
+}
+
+label{
+    color: #fff;
+}
+
+input{
+    padding: 3px;
+
+}
+
+button{
+    padding: 6px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+}
